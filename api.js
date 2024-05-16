@@ -1,0 +1,13 @@
+{
+    "xP21": "https://basalt-polydactyl-bait.glitch.me",
+    "xP22": {
+        "main": "https://xva-api.up.railway.app/api",
+        "fbdl": "https://facebook-video-dl-mdrahad1234561.replit.app/fbdl",
+				"xps": "https://xps.up.railway.app/api",
+        "sfw": "https://api.waifu.pics/sfw",
+        "nsfw": "https://api.waifu.pics/nsfw",
+        "quote": "https://animechan.xyz/api/random",
+        "popcat": "https://api.popcat.xyz",
+        "rule34": "https://scandalous-flowery-promotion.glitch.me"
+    }
+}
